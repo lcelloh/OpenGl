@@ -1,0 +1,22 @@
+.container { 
+    display: flex;
+    background-color : #1f2937;
+    justify-content: flex-end;
+    gap: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.subheaders {
+    color: rgb(196, 189, 189);
+    font-family: 'Roboto', sans-serif;
+    font-size: smaller;
+}
+
+#head-1 {
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-right: auto;
+    margin-left: 0%;
+}
